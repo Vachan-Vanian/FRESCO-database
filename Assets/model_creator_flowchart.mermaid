@@ -1,0 +1,10 @@
+flowchart TD
+    A[Initialize: Database & FreeCAD Document] --> B[Extract Parameters from Database Entry]
+    B --> C[Create RC Frame Geometry<br/>Columns, Beams, Slab<br/>Stage 1]
+    C --> D[Generate Transverse Reinforcement<br/>(Stirrups) for all members<br/>Stage 2]
+    D --> E[Generate Longitudinal Reinforcement<br/>(Main bars) for all members<br/>Stage 3]
+    E --> F[Create Infill Assembly<br/>Brick pattern <br/> Stages 4 & 5]
+    F --> G[Export Complete Model to STEP Format]
+
+    style A fill:#e1f5fe
+    style G fill:#c8e6c9
