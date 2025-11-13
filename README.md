@@ -24,10 +24,26 @@ FRESCO (Fiber REinforced Strengthening COmposite Database) is a comprehensive op
 
 If you use FRESCO in your research, please cite it using the following format:
 
-> COMING SOON
+```
+MDPI and ACS Style
+Vanian, V.; Rousakis, T. FRESCO: An Open Database for Fiber and Polymer Strengthening of Infilled RC Frame Systems. Fibers 2025, 13, 152. https://doi.org/10.3390/fib13110152 
+```
 
 For BibTeX:
-> COMING SOON
+```
+@Article{fib13110152,
+AUTHOR = {Vanian, Vachan and Rousakis, Theodoros},
+TITLE = {FRESCO: An Open Database for Fiber and Polymer Strengthening of Infilled RC Frame Systems},
+JOURNAL = {Fibers},
+VOLUME = {13},
+YEAR = {2025},
+NUMBER = {11},
+ARTICLE-NUMBER = {152},
+URL = {https://www.mdpi.com/2079-6439/13/11/152},
+ISSN = {2079-6439},
+DOI = {10.3390/fib13110152}
+}
+```
 
 ## Installation
 
