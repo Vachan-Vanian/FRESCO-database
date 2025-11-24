@@ -9,7 +9,7 @@
 #
 # ------------------------------------------------------------------------------------------------------------
 #
-# The original specimen is from webpage: TODO AFTER PUBLICATION
+# The original specimen is from webpage: https://doi.org/10.3390/fib13110154
 # Details of the source manuscript (specimen origin)
 #    - Status: Open Access
 #    - Title: Experimental Evaluation of RC Structures with Brick Infills for Vertical Forest Adaptation in Seismic regions
@@ -26,7 +26,7 @@ entry_rousakis_et_al_2025 = {
     # ===========================================
     "specimen_id": "GREENERGY-1",  # The name of the specimen defined in the manuscript
     "specimen_scale": 0,  # The scale of the specimen defined in the manuscript (1, 0.5, 0.1, ... etc)
-    "source": "none",  # Site for reference source (webpage or doi) TODO AFTER PUBLICATION
+    "source": "https://doi.org/10.3390/fib13110154",  # Site for reference source (webpage or doi)
     "title": "Experimental Evaluation of RC Structures with Brick Infills for Vertical Forest Adaptation in Seismic regions",  # Title of the reference source
     "authors": "Theodoros Rousakis, Vachan Vanian, Martha Lappa, Adamantis G. Zapris, Ioannis P. Xynopoulos, Maristella Voutetaki, Stefanos Kellis, Georgios Sapidis, Maria Naoum, Nikolaos Papadopoulos, Violetta K. Kytinou, Martha Karampini, Constantin E. Chalioris, Athanasia Thomoglou, Emmanouil Golias",  # List of authors for the reference source (comma-separated string)
     "year": 2025,  # Publication year of the reference source

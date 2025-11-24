@@ -5,7 +5,7 @@
 #    - Title: FRESCO: An Open Database for Fiber and Polymer Strengthening of Infilled RC Frame Systems
 #    - Authors: Vachan Vanian, Theodoros Rousakis
 #    - Year: 2025
-#    - DOI: TODO AFTER PUBLICATION
+#    - DOI: https://doi.org/10.3390/fib13110152
 #
 # ------------------------------------------------------------------------------------------------------------
 #
