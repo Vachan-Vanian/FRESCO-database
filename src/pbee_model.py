@@ -10,7 +10,7 @@ DATABASE_NAME = "fresco_v1"
 DATABASE_ENTRY_ID = 1
 MODEL_NAME = None
 
-class PPEEFrameGenerator:
+class PBEEFrameGenerator:
     """Base class for linear frame generation"""
     
     def __init__(self, database_folder_path, cad_folder_path, database_name, 
